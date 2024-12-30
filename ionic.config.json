@@ -1,0 +1,7 @@
+{
+  "name": "webdetranpr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
